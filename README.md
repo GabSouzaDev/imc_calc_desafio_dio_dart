@@ -1,7 +1,6 @@
 # Bootcamp Santander Flutter
 ## Desafio prático - Desenvolver uma Calculadora IMC usando dart e Orientação a objetos.
 
-### TODO
 ### Todo
 
 <pre>
